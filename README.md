@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Registered Information Security Specialist
 - Certified Ethical Hacker
 
-####　Source code for competition programming, machine learning, and personal automation scripts are stored here as personal notes.
+#### Source code for competition programming, machine learning, and personal automation scripts are stored here as personal notes.
