@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm baketsu, and I am a security engineer.
+- GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
+- Registered Information Security Specialist
+- Certified Ethical Hacker
+
+####　Source code for competition programming, machine learning, and personal automation scripts are stored here as personal notes.
